@@ -12,4 +12,3 @@ function randomColour(){
     const color=`rgb(${red}, ${green}, ${blue})`;
     body.style.backgroundColor=color;
 }
-randomColour()
